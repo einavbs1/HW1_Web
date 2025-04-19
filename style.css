@@ -1,0 +1,14 @@
+/* Custom styles if needed */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .task-complete {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
